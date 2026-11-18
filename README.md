@@ -1,6 +1,8 @@
-﻿# Surface Button Bindings
+﻿# Windows 平板机身按钮自定义
 
 Windows 11 原生 C++ 平板实体按键绑定工具，提供 ARM64 和 x64 构建配置。
+
+[English documentation](README.en.md)
 
 ## 已验证的方案
 
@@ -53,3 +55,4 @@ Surface Pro X 的固定设备版本已实测成功。当前配置版 ARM64/x64 �
 ## 隐私
 
 配置保存于 HKCU\Software\SurfaceButtonBindings。仓库不包含个人设备实例、按键日志或上传的诊断文本。程序本身不发送遥测数据。
+
